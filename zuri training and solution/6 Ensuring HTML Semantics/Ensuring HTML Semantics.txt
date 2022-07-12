@@ -1,0 +1,19 @@
+
+Task Points: 3
+
+Task Title: Ensuring HTML Semantics
+Full Time
+Fullstack
+Created 16-05-2022 07:12:04
+
+) Create a single HTML page that has
+
+     - Your name, 
+
+     - A sentence about yourself and 
+
+     - Your goals for this internship.
+
+
+Submission Mode
+CodePen URL

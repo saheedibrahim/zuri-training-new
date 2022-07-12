@@ -1,0 +1,14 @@
+Task Points: 1
+
+Task Title: Your CV
+General
+General
+Created 08-05-2022 20:53:50
+
+The idea of the program is to get you started on your tech journey, to help you keep track of your progress, do the following:
+
+1. Upload your CV to Google docs (or drive)
+
+2. Submit a link to your CV in the provided box
+
+3. Ensure your link is publicly viewable so it can be reviewed.
