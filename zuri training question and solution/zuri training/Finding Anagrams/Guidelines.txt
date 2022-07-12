@@ -1,0 +1,20 @@
+Read the Guidelines first:
+
+Get Starter Files:	
+Download the Zip File: Click on the provided link, and it will automatically start a download
+
+Using https://downgit.github.io/#/home?url= : Locate the starter file on Github, and paste the link on
+ https://downgit.github.io/#/home and click on download
+
+
+Submission:
+
+Upload your main.py to either of these platforms
+
+https://ray.so/	: Export > Copy URL 
+
+https://carbon.now.sh/	: Copy Icon > Plain URL
+
+https://pastebin.com/	: Check out the steps here on how to use Pastebin
+
+https://github.com/	: Push your code to a public repository, and share the link.

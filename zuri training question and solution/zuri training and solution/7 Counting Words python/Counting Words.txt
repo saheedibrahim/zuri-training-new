@@ -1,0 +1,16 @@
+Task Points: 5
+
+Task Title: Counting Words
+Full Time
+Fullstack
+Created 16-05-2022 14:16:00
+
+Write a python program that counts and returns the number of words in a given text.
+
+ 
+
+ 
+
+Mode of Submission
+
+Screenshot of your Python script and a screenshot of successful execution in a terminal

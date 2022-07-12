@@ -1,0 +1,13 @@
+
+Task Points: 10
+
+Task Title: Simple CLI Calculator
+Full Time
+Fullstack
+Created 16-05-2022 14:36:36
+
+Write a Python calculator that can perform: addition, subtraction, division, multiplication and modulus operations. It should accept user input
+
+
+Mode of Submission
+Code in an archive (.zip, tar.gz)

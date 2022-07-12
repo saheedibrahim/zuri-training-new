@@ -1,0 +1,12 @@
+Task Points: 1
+
+Task Title: Codewars: Getting ready for algorithm and data structures
+Full Time
+Fullstack
+Created 09-05-2022 21:43:14
+
+Create an account on code wars at https://www.codewars.com/  (If you already have one, you don't have to create another one)
+
+Go to your account settings and set your clan to @StayBusy  ( TIP: your settings should be on: https://www.codewars.com/users/edit) 
+
+Once this is done, take a screenshot, upload it to a drive and share the link to your screenshot

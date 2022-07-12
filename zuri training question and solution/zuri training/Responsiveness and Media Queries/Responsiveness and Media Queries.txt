@@ -1,0 +1,21 @@
+Task Points: 5
+
+Task Title: Responsiveness and Media Queries
+Full Time
+Fullstack
+Created 12-06-2022 20:53:09
+
+If you have not filled out the Mid-Program Survey, fill it out before you continue.
+
+ 
+
+Assignment
+
+Build a single-page responsive registration form using the design (https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/cbyamvcsyhwlvnlelr5n.jpg).
+
+ All information and images needed for the design can be found in this folder here (https://drive.google.com/drive/folders/1QN4U7u0pJ4yzNqcmRGo8JnoIDowZHY-O)
+ 
+
+Submission  Mode: URL (Submit a link to your published GitHub pages)
+
+

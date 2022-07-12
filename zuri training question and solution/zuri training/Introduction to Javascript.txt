@@ -1,0 +1,14 @@
+
+Task Points: 3
+
+Task Title: Introduction to Javascript
+Full Time
+Fullstack
+Created 20-06-2022 13:02:08
+
+Assignment
+
+Write a javascript code that prints out your name, height, and country on the screen
+
+Submission mode:
+GitHub Url

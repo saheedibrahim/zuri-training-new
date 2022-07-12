@@ -1,0 +1,60 @@
+Task Points: 1
+
+Task Title: FullStack - Environment Setup
+Full Time
+Fullstack
+Created 09-05-2022 21:36:18
+
+As a full-stack developer, you need to have the following installed on your computer:
+
+Python
+
+Install Python 3 on your computer. 
+
+Run python --version in your terminal (command prompt)
+
+Take a screenshot of the output
+
+Upload the screenshot to a drive (photo sharing drive)
+
+Generate a URL to your uploaded screenshot
+
+Submit the URL
+
+ 
+
+TIP:
+
+If you already have Python installed, ensure you have Python 3.
+
+Check the provided resources for the Python tutorials series
+
+If python --version does not work, try python3 --version
+
+ 
+
+NodeJS / NPM
+
+Install Node 16, and NPM 8 on your computer. 
+
+Run Node -v and npm -v in your terminal (command prompt).
+
+Take a screenshot of the output. Run the commands separately but take one single screenshot
+
+Upload the screenshot to a drive (photo sharing drive)
+
+Generate a URL to your uploaded screenshot
+
+Submit the URL
+
+ 
+
+TIP:
+
+If you already have Node installed, ensure you have the correct node version
+
+ 
+
+ 
+
+TO BE CLEAR: YOU ARE SUBMITTING 2 URLS IN THE TEXT FIELD PROVIDED. EACH OF YOUR URLS SHOULD BE A LINK THAT GOES TO THE UPLOADED SCREENSHOTS

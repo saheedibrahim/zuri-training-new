@@ -1,0 +1,17 @@
+
+Task Points: 5
+
+Task Title: Adding Integers
+Full Time
+Fullstack
+Created 16-05-2022 14:32:34
+
+Write a simple python program that adds 2 numbers together and output the result on your terminal.
+
+Your python program should use variables to carry out the addition
+
+ 
+
+
+Submission Mode
+Code in an archive (.zip, tar.gz)

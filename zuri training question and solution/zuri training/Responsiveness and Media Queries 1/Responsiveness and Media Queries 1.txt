@@ -1,0 +1,15 @@
+
+Task Points: 5
+
+Task Title: Responsiveness and Media Queries
+Full Time
+Fullstack
+Created 12-06-2022 20:58:12
+
+3) Build a responsive landing page using the design (https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/twtp2gsjsqshh3eyk4xu.jpg). 
+
+All information and images needed for the design can be found in this folder here (https://drive.google.com/drive/folders/19i47IPhJbarXdhKFWkyQ6fPslxU7hCrK)
+Add a basic animation/transition to your implementation
+Submission  Mode: URL (Submit a link to your published GitHub pages)
+
+ 
